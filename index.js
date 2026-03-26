@@ -14,7 +14,6 @@ const client = new Client({
   ]
 });
  
-const TOKEN = 'MTQ4Njc5Mzc4OTg2MjMxNDE5OA.GOCwpq.APLOh0FxxkjvKKgdGveoQZruxmhOgxvwfXfyKs';
 const PREFIX = 'b!';
 const CONFIG_FILE = './config.json';
  
