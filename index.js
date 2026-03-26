@@ -13,7 +13,8 @@ const client = new Client({
     GatewayIntentBits.GuildMembers,
   ]
 });
- 
+
+const TOKEN = process.env.TOKEN;
 const PREFIX = 'b!';
 const CONFIG_FILE = './config.json';
  
